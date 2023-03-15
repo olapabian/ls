@@ -1,0 +1,1 @@
+Program napisany w języku c realizuje komendę ls-al.
